@@ -1,0 +1,23 @@
+TrackingID=UA-49812791-4
+[DataAnalytics]
+
+
+
+eula=1
+[queryparams]
+eula_minor=0
+eula_major=3
+ent-detect=1
+RequestedAffid=739
+HelpUrl=https://liteapps.mcafee.com/apps/mss/3.11/help.asp
+ScanUrl=https://liteapps.mcafee.com/apps/mss/3.11/default.asp
+ScanParameters=SecurityScanner.dll /auto /nosplash
+
+
+FirstStartWait=0
+
+
+FirstInstallWait=14400
+Rank=400
+[SecurityScan]
+明天我要离开熟悉的地方和你
